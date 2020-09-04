@@ -13,7 +13,7 @@ from pprint import pprint
 
 DARK_SKY = {
     "api_url": "https://api.darksky.net/forecast",
-    "img_url": "https://darksky.net/images/weather-icons",
+    "img_url": "http://mqtt.local/icons",
     "img_ext": "png"
 }
 
